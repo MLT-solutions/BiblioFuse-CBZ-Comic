@@ -29,6 +29,6 @@ Using advanced **WebP compression**, it reduces file sizes by up to 50% while ma
 | **Multithreading**  | **Max Speed (All Cores)** |
 | **WebP Compression**  | ✅ Included |
 | **Smart Resizing** | ✅ Included |
-| **APP Store** | TBC |
+| **APP Store** | [![Get it from Microsoft](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/store/detail/9P7B02538TFQ)  |
 
 *Note: This is a conversion utility, not a reading app.*
