@@ -1,13 +1,11 @@
 # BiblioFuse PRO - CBZ Comic Compress & Bind
 ![Platform](https://img.shields.io/badge/platform-Windows-blue) ![Python](https://img.shields.io/badge/Built%20With-Python%20%7C%20Tkinter-yellow)
 
-[![Watch the Demo](https://img.youtube.com/vi/cVHOKK1Ie7c/maxresdefault.jpg)](https://youtu.be/cVHOKK1Ie7c)
-
 Batch convert PDF, Folders & ZIPs to optimized CBZ comics. Save space with WebP compression.
 
 <img width="2752" height="1536" alt="App Banner Master" src="https://github.com/user-attachments/assets/93dcd9d8-c0d7-4d49-b8d1-29a39767cb0c" />
 <img width="1547" height="924" alt="Screenshot 2026-01-02 164800" src="https://github.com/user-attachments/assets/b6f69525-7ec5-4242-b856-04ac70c769bb" />
-
+[Watch the BiblioFuse PRO Demo on YouTube](https://youtu.be/cVHOKK1Ie7c)
 
 ### **Description**
 
